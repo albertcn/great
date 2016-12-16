@@ -1,7 +1,9 @@
-# great
+# 个人提高
 
-1, read more books, articles and magzines for hours a day
+只需要做好三点：阅读 | 写作 | 健身
 
-2, write at least 30 munites a day.
+### 阅读：每天至少一个小时阅读时间。每月至少要读完一本书。
 
-3, exercise at least 30 minutes a day.
+### 写作：在任何有写作欲望的时候，每天只有一次，分配最多30分钟，将这次的写作欲望发泄
+
+### 健身：强迫自己每天30分钟
